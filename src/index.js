@@ -1,0 +1,1 @@
+const body_div = document.querySelector("#body_div")
